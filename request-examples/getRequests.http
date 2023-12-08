@@ -1,0 +1,5 @@
+### 1. Get build configuration
+GET http://172.20.10.11:8111/app/rest/buildTypes/id:id
+Content-Type: application/json
+Accept: application/json
+X-TC-CSRF-Token: a1cb66ee-f1bf-4268-b589-16f2e767e292
